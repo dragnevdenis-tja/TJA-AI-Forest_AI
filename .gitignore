@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+.f_venv/
+env/
+venv/
+ENV/
+
+# Large Data & Assets
+Data/
+audio_samples/
+*.zip
+*.tar.gz
+*.mp3
+*.wav
+
+# Model Checkpoints
+models/*.pth
+models/*.pt
+experiments/
+
+# Web Frontend (Node.js)
+forest-audio-web/frontend/node_modules/
+forest-audio-web/frontend/dist/
+forest-audio-web/frontend/.env
+forest-audio-web/frontend/.env.local
+
+# IDEs & System Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Project Specific
+forest-audio-web/app/nodes.json
