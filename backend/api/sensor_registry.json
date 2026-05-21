@@ -1,0 +1,6 @@
+[
+  {"id": "SN-CHI-101", "lat": 47.0105, "lng": 28.8638, "name": "Chisinau Central Park", "region": "Chisinau", "status": "active"},
+  {"id": "SN-COD-202", "lat": 47.1167, "lng": 28.3333, "name": "Codrii Forest East", "region": "Codrii", "status": "active"},
+  {"id": "SN-NOR-303", "lat": 47.7500, "lng": 27.9167, "name": "Balti Agricultural Belt", "region": "North", "status": "active"},
+  {"id": "SN-SOU-404", "lat": 45.9000, "lng": 28.2000, "name": "Cahul Steppe Border", "region": "South", "status": "active"}
+]

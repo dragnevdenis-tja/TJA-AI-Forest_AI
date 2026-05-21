@@ -1,0 +1,41 @@
+# Forest Audio AI Configuration
+
+# Model Paths
+models:
+  audio_model_path: "backend/ml/audio_model/best_checkpoint.pth"
+  structured_model_path: "backend/ml/structured_model/"
+
+# Detection Thresholds
+thresholds:
+  confidence_threshold: 0.3
+  alert_threshold: 0.7
+
+# Moldova Region Definitions
+regions:
+  Chisinau:
+    lat: 47.0105
+    lng: 28.8638
+    radius_km: 15
+  Codrii:
+    lat: 47.1167
+    lng: 28.3333
+    radius_km: 30
+  North:
+    lat: 47.7500
+    lng: 27.9167
+    radius_km: 50
+  South:
+    lat: 45.9000
+    lng: 28.2000
+    radius_km: 40
+
+# Paths
+paths:
+  dataset_output_path: "Data/Harvested/"
+  audio_samples_path: "audio_samples/"
+  logs_path: "logs/"
+
+# System
+system:
+  random_seed: 42
+  logging_level: "INFO"

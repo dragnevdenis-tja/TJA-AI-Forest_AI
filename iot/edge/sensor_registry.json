@@ -1,0 +1,50 @@
+[
+  {
+    "sensor_id": "SN-COD-202",
+    "region": "Codrii",
+    "lat": 47.1167,
+    "lon": 28.3333,
+    "type": "Standard-v1",
+    "installed_date": "2026-03-12"
+  },
+  {
+    "sensor_id": "SN-COD-203",
+    "region": "Codrii",
+    "lat": 47.1500,
+    "lon": 28.4000,
+    "type": "Standard-v1",
+    "installed_date": "2026-03-14"
+  },
+  {
+    "sensor_id": "SN-NOR-303",
+    "region": "North",
+    "lat": 47.7500,
+    "lon": 27.9167,
+    "type": "Standard-v1",
+    "installed_date": "2026-02-10"
+  },
+  {
+    "sensor_id": "SN-NOR-304",
+    "region": "North",
+    "lat": 47.8000,
+    "lon": 28.0000,
+    "type": "Standard-v1",
+    "installed_date": "2026-02-15"
+  },
+  {
+    "sensor_id": "SN-CHI-101",
+    "region": "Chisinau",
+    "lat": 47.0105,
+    "lon": 28.8638,
+    "type": "Urban-v1",
+    "installed_date": "2026-01-05"
+  },
+  {
+    "sensor_id": "SN-SOU-404",
+    "region": "South",
+    "lat": 45.9000,
+    "lon": 28.2000,
+    "type": "Solar-v2",
+    "installed_date": "2026-04-22"
+  }
+]

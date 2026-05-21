@@ -1,0 +1,11 @@
+datasets/
+experiments/
+__pycache__/
+.git/
+.venv/
+.f_venv/
+*.pyc
+*.pyo
+*.pyd
+.env
+tests/

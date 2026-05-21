@@ -1,0 +1,7 @@
+[
+  {"id": "amazon-01", "lat": -3.46, "lng": -62.2, "name": "Amazon Basin Alpha", "status": "active"},
+  {"id": "congo-01", "lat": -0.5, "lng": 23.5, "name": "Congo Rainforest Bravo", "status": "active"},
+  {"id": "taiga-01", "lat": 60.0, "lng": 100.0, "name": "Siberian Taiga Gamma", "status": "active"},
+  {"id": "pnw-01", "lat": 45.0, "lng": -120.0, "name": "Pacific Northwest Delta", "status": "active"},
+  {"id": "aus-01", "lat": -25.0, "lng": 130.0, "name": "Australian Tropics Epsilon", "status": "active"}
+]
